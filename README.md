@@ -1,2 +1,7 @@
 # data-visualisation-via-webgl
-A presentation I give on data visualisation using WebGL.
+A talk I give on data visualisation using WebGL.
+
+I covers :
+ *) Basics on data visualisation;
+ *) Basics of WebGL;
+ *) Basics on Three.js.
